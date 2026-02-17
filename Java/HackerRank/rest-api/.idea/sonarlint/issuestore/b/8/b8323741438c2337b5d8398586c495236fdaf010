@@ -1,0 +1,19 @@
+
+c
+java:S11928"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(Ý¤Çÿ8²è¨Ïÿ1
+d
+java:S2259W"BA "NullPointerException" could be thrown; "json" is nullable here.(´Ìðžþÿÿÿÿ8Êè¨Ïÿ1
+^
+java:S2259q"AA "NullPointerException" could be thrown; "con" is nullable here.(½ç±˜8Êè¨Ïÿ1
+c
+java:S2259A"FA "NullPointerException" could be thrown; "response" is nullable here.(šÒû†8Êè¨Ïÿ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼Ò±“üÿÿÿÿ8Êè¨Ïÿ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­…—±ÿÿÿÿÿ8Êè¨Ïÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥”ƒó8Íè¨Ïÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’­ð„ýÿÿÿÿ8Íè¨Ïÿ1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ì¶µÊ8Íè¨Ïÿ1
+›
+java:S1130#"~Remove the declaration of thrown exception 'org.json.simple.parser.ParseException', as it cannot be thrown from method's body.(¸‚ˆÐ8Íè¨Ïÿ1
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(é¹–8Îè¨Ïÿ1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8Ûè¨Ïÿ1
